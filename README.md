@@ -5,7 +5,11 @@ An SBOM based software supply chain vulnerability analysis and risk prioritzatio
 
 Intelligent Software Supply Chain Vulnerability Analysis & Risk Prioritization
 
+
+
 See the risk. Prioritize the threat. Secure your software.
+
+
 
 VulnSentinel is a software supply chain security platform designed to analyze Software Bills of Materials (SBOMs), identify known vulnerabilities in software dependencies, and help developers prioritize remediation using vulnerability intelligence and transparent risk assessment.
 
